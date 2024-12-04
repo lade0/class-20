@@ -1,0 +1,12 @@
+# tuples
+tuplex=(34,"hello",36.97,False)
+print(tuplex)
+tu_int=(78,900,4,82)
+print(tu_int)
+tu_int=tu_int+(11,)
+print(tu_int)
+super_tu=(82,239,52,52,10)
+print(super_tu.count(52))
+mega_tu=(37,832,928,38,7383,93280832,12,999)
+slicer=mega_tu[3:5]
+print(slicer)
